@@ -2,4 +2,5 @@
 api
 
 ## Development server
-> `npm run dev` // watching for changes
+> `node server` // run
+> `nodemon server` // run watching for changes
