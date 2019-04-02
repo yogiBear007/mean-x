@@ -3,4 +3,8 @@ api
 
 ## Development server
 > `node server` // run
-> `nodemon server` // run watching for changes
+> `npm run dev` // run watching for changes
+
+## mongo db
+> `sudo service mongod start` // start mongodb
+> `sudo service mongod stop` // stop mongodb
