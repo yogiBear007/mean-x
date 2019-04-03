@@ -8,3 +8,7 @@ api
 ## mongo db
 > `sudo service mongod start` // start mongodb
 > `sudo service mongod stop` // stop mongodb
+
+##robo 3t
+- _work/tools/robo3t/robomongo/bin
+- execute robo3t
