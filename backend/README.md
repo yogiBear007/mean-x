@@ -6,7 +6,7 @@ api
 > `npm run dev` // run watching for changes
 
 ## mongo db
-> `sudo service mongod start` // start mongodb
+> `` // start mongodb
 > `sudo service mongod stop` // stop mongodb
 
 ##robo 3t
