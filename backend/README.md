@@ -12,3 +12,6 @@ api
 ##robo 3t
 - _work/tools/robo3t/robomongo/bin
 - execute robo3t
+
+##todo
+> connection pooling
